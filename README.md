@@ -147,6 +147,6 @@ OK (10 tests, 24 assertions)
 
 ## About
 
-This implementation is part of my work for **GovAssist** company, focusing on a card application that integrates modern payment solutions with a scalable and maintainable architecture.
+This implementation is part of my work for a previous company, focusing on a card application that integrates modern payment solutions with a scalable and maintainable architecture.
 
 
