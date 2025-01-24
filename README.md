@@ -1,6 +1,6 @@
 # PayFlow
 
-PayFlow is a Laravel-based payment application designed with SOLID principles. It provides a scalable, maintainable, and extendable architecture for integrating multiple payment gateways like Stripe and PayPal. This implementation is part of my work on a card application for **GovAssist** company.
+PayFlow is a Laravel-based payment application designed with SOLID principles. It provides a scalable, maintainable, and extendable architecture for integrating multiple payment gateways like Stripe and PayPal. This implementation is part of my work on a card application for a previous company.
 
 ---
 
