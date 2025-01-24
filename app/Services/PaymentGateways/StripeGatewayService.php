@@ -10,7 +10,7 @@ class StripeGatewayService implements PaymentGatewayInterface
     {
         // Simulate Stripe API charge
         return [
-            'transaction_id' => 'stripe_12345',
+            'transaction_id' => 'stripe_' . uniqid(),
             'status' => 'success',
             'amount' => $amount,
         ];

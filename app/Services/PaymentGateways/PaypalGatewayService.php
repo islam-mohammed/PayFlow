@@ -10,7 +10,7 @@ class PaypalGatewayService implements PaymentGatewayInterface
     {
         // Simulate PayPal API charge
         return [
-            'transaction_id' => 'paypal_67890',
+            'transaction_id' => 'paypal_' . uniqid(),
             'status' => 'success',
             'amount' => $amount,
         ];
